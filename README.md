@@ -1,5 +1,5 @@
 # Buildathon
-Team Details
+Team Details:
 Team Name : BuildCrew
 Team Members:
 1. Raj Koli (2024-2028)
